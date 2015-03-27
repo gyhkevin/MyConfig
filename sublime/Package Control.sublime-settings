@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CodeFormatter",
 		"Emmet",
 		"Git",
 		"Package Control",
